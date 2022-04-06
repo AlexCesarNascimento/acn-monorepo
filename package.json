@@ -2,5 +2,8 @@
   "dependencies": {
     "@nrwl/cli": "^13.9.7",
     "nx": "^13.9.7"
+  },
+  "devDependencies": {
+    "@nrwl/react": "^13.9.7"
   }
 }
